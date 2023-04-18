@@ -1,0 +1,5 @@
+TX1={Manager}
+TX2={Aradığınız sayfa silinmiş, değiştirilmiş veya hiç olmamış olabilir.<BR><BR>Lütfen Anasayfa'ya dönerek tekrar deneyin. }  
+TX3={Anasayfa} 
+TX4={<i class="ion-android-alert"></i> Lütfen e-posta ve gsm numarası giriniz.}    
+TX5={<i class="ion-android-alert"></i> Numaranız zaten kayıtlı bulunuyor.}    

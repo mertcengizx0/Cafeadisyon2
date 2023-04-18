@@ -1,0 +1,17 @@
+Merhaba,
+Adisyom Adisyon Yazılını Satın Aldığınız İçin Teşekkür Ederiz.
+
+Kurulumları Adımları Takip Ederek Yapabilirsiniz.
+
+1- Dosyaları FTP'ye Atın.
+2- Bir Veri Tabanı Oluşturun ve Bilgileri Not Alın.
+3- PHPMyAdmin'e adisyom.sql Dosyasını Yükleyin.
+4- Dosyaları FTP'den Çıkarın.
+5- Admin - chain - connection - tcon.php Dosyasını Açın.
+6- 8. - 11. - 14. Satırlara Database Bilgilerini Girin.
+
+Kurulum Tamamlanmıştır.
+
+/admin Yazarak Admine Erişebilirsiniz.
+Admin Bilgileri: admin@admin.com
+admin
